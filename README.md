@@ -1,14 +1,16 @@
 # Browser History Spoofing JS
 
-ウェブページに組み込むと見た目を変えずに、`¥`キーを押すとブラウザ履歴を繰り返し追加できる軽量スクリプト
+A lightweight script that, when embedded in a web page, allows you to repeatedly add entries to the browser history by pressing the `¥` key without changing the appearance.
 
 ---
 
-## インストール / 導入
-1. リポジトリの[`main.js`](./main.js)をプロジェクトにコピーする
-2. HTMLに読み込む
+## Installation / Setup
 
-例：
+1. Copy the repository's [`main.js`](./main.js) into your project.
+2. Include it in your HTML.
+
+Example:
+
 ```html
 <script src="./main.js"></script>
 ```
