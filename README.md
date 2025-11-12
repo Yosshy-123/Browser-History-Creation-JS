@@ -1,4 +1,4 @@
-# Browser History Spoofing JS
+# Browser History Creation Tool
 
 A lightweight script that, when embedded in a web page, allows you to repeatedly add entries to the browser history by pressing the `¥` key without changing the appearance.
 
