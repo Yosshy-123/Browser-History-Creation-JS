@@ -6,11 +6,11 @@ A lightweight script that, when embedded in a web page, allows you to repeatedly
 
 ## Installation / Setup
 
-1. Copy the repository's [`main.js`](./main.js) into your project.
+1. Copy the repository's [`history.js`](./history.js) into your project.
 2. Include it in your HTML.
 
 Example:
 
 ```html
-<script src="./main.js"></script>
+<script src="./history.js"></script>
 ```
