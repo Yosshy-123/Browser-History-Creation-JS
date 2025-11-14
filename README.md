@@ -18,5 +18,5 @@ That’s what you should be asking yourself.
 Example:
 
 ```html
-<script src="./history.js"></script>
+<script src="./history.js" defer></script>
 ```
