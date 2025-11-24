@@ -4,9 +4,7 @@ A lightweight script that, when embedded in a web page, allows you to repeatedly
 
 ---
 
-Why am I doing this?
-
-That’s what you should be asking yourself.
+> Why am I doing this?<br>That’s what you should be asking yourself.
 
 ---
 
